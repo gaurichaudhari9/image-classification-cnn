@@ -1,4 +1,4 @@
-# Image Classification with Convolutional Neural Networks
+# Investigating Transfer Learning and Scratch Training for Image Recognition
 
 ## Overview
 This project explores image classification using convolutional neural networks (CNNs). The goal is to classify images into three categories - apparel, chairs, and footwear.
